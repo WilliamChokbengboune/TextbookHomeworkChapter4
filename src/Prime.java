@@ -1,3 +1,12 @@
+/**
+ * Class: Prime
+ * Author: William Chokbengboune
+ * Date: February 27, 2023
+ * Version: 1.0
+ * Description: This program will continuously run when given a number. It will check if a number is a prime
+ * number by checking the remainder when dividing the given integer by all numbers before it except 1 and 0.
+ */
+
 import java.util.Scanner;
 
 public class Prime {

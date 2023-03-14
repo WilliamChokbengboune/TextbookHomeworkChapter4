@@ -1,3 +1,10 @@
+/**
+ * Class: Average
+ * Author: William Chokbengboune
+ * Date: March 14, 2023
+ * Description: This class takes entered grades and returns the average of them
+ */
+
 import java.util.Scanner;
 
 public class Average {
